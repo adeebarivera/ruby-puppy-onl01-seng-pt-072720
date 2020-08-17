@@ -8,3 +8,7 @@ Class Dog
     @@all << self
   end
 end
+
+
+fido = dog.new("fido")
+ = Song.new("Thriller")
