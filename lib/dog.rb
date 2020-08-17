@@ -11,4 +11,4 @@ end
 
 
 fido = dog.new("fido")
- = Song.new("Thriller")
+purpose = Song.new("purpose")
