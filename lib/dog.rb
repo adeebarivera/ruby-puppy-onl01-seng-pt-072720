@@ -1,1 +1,4 @@
-# Add your code here
+Class Dog 
+@@all = []
+
+end
